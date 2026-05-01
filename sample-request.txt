@@ -1,0 +1,18 @@
+PCERR/1.0 REBOOT
+To: jeff.schmitz@illumio.com
+From: alex.goller@illumio.com
+X-Magic: JEFF
+X-Urgency: medium-high
+X-Coffee-Level: assumed-sufficient
+X-Flags: P, T, B, S, R
+X-PCE-FQDN: pce.demo.illumio.com
+X-Guilt-Trip: false
+
+Hey Jeff,
+
+Three-way handshake initiated. SYN: my PCE is being weird.
+Could you SYN-ACK with a quick reboot when you have a sec?
+I'll ACK with a beer at the next AG.
+
+Thanks a million,
+Alex
